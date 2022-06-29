@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @viictoriaellen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Oi, eu sou a Victória! 👋
 
-<!---
-viictoriaellen/viictoriaellen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📘 Graduanda de Análise e Desenvolvimento de Sistemas
+- 📲 Estudando Flutter e outras coisinhas a mais
+- ✨ Pronome: ela/dela
+
+##
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viictoriaellen&show_icons=true&theme=slateorange&count_private"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viictoriaellen&layout=compact&theme=slateorange"/>
+</div>
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="Vic-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Vic-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+    <img align="center" alt="Vic-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+    <img align="center" alt="Vic-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+    <img align="center" alt="Vic-Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Vic-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+    <img align="center" alt="Vic-Canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+          
+ ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/victoriaellen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:victoriaellenov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/Victória#0703" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/viictoriaellen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+![Snake animation](https://github.com/viictoriaellen/viictoriaellen/blob/output/github-contribuition-grid-snake.svg)
+  
+          
