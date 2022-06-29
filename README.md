@@ -26,8 +26,4 @@
   <a href = "mailto:victoriaellenov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/Victória#0703" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/viictoriaellen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-
-![Snake animation](https://github.com/viictoriaellen/viictoriaellen/blob/output/github-contribuition-grid-snake.svg)
-  
-          
+</div>         
