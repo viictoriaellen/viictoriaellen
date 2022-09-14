@@ -1,7 +1,7 @@
 ## Oi, eu sou a Victória! 👋
 
 - 📘 Graduanda de Análise e Desenvolvimento de Sistemas
-- 📲 Estudando Flutter e outras coisinhas a mais
+- 📲 Estudando Flutter para desenvolvimento mobile
 - ✨ Pronome: ela/dela
 
 ##
